@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FibroApp</string>
+    <string name="personal_info">Información Personal</string>
+    <string name="historial_citas">Historial de Citas</string>
+    <string name="pruebas_pdtes">Pruebas Pendientes</string>
+    <string name="pedir_cita">Pedir Cita</string>
+    <string name="consultar_tto">Tratamiento Actual</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="dni">DNI</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
+    <string name="numero_telefono">Teléfono</string>
+    <string name="sexo">Sexo</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>

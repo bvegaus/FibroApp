@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664892010877",
+    "project_id": "fibroapp-b532a",
+    "storage_bucket": "fibroapp-b532a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664892010877:android:77280ad90d83dbbd335c14",
+        "android_client_info": {
+          "package_name": "com.androidavanzado.fibroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664892010877-i9b1tv1jdids5sk4mq0a38alo0hm1pqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNbJefJhZV9FoHbmICr0_UzR6KxNXfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664892010877-i9b1tv1jdids5sk4mq0a38alo0hm1pqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
