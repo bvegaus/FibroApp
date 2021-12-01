@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_buscar"
+        android:title="buscar"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_nuevo"
+        android:title="Nuevo"
+        android:icon="@drawable/googleg_standard_color_18"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/action_opciones"
+        android:title="Opciones"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

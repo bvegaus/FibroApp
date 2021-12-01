@@ -9,10 +9,14 @@
         <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.253515625" />
         <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_actualizar_info_personal.xml" value="0.16196581196581197" />
         <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_auth.xml" value="0.16" />
-        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_home_paciente.xml" value="0.22" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_home_medico.xml" value="0.235546875" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_home_paciente.xml" value="0.25" />
         <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_login.xml" value="0.27735042735042736" />
         <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_registro.xml" value="0.22" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/activity_registro.xml" value="0.29233976029181863" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/layout/menu_main.xml" value="0.187109375" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/menu/menu_main.xml" value="0.19765625" />
+        <entry key="..\:/Users/belen/AndroidStudioProjects/FibroApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24765625" />
       </map>
     </option>
   </component>

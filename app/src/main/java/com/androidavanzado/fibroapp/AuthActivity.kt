@@ -3,6 +3,9 @@ package com.androidavanzado.fibroapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.Button
 import android.widget.EditText
 import androidx.appcompat.app.AlertDialog
@@ -19,6 +22,33 @@ class AuthActivity : AppCompatActivity() {
         setup()
 
     }
+
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem) = when (item.itemId) {
+        R.id.action_opciones -> {
+            Log.i("ActionBar", "Opciones!")
+            true
+        }
+        R.id.action_nuevo -> {
+            Log.i("ActionBar", "Nuevo!")
+            true
+        }
+        R.id.action_buscar -> {
+            Log.i("ActionBar", "Buscar!")
+            true
+        }
+        else -> {
+            super.onOptionsItemSelected(item)
+        }
+    }
+
+
+
+
 
     private fun setup() {
         val signUpButton = findViewById<Button>(R.id.signUpButton)
