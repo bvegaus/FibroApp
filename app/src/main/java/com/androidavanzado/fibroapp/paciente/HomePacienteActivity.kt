@@ -23,11 +23,11 @@ class HomePacienteActivity : AppCompatActivity() {
         }
     }
 
-//    fun onClick(view: View){
-//        val id_btn = view.id
-//        if (id_btn == R.id.btnPersonalInfo){
-//            val intent = Intent(this, ActualizarInfoPersonalActivity::class.java)
-//            startActivity(intent)
-//        }
-//    }
+    fun onClick(view: View){
+        val id_btn = view.id
+        if (id_btn == R.id.btnPersonalInfo){
+            val intent = Intent(this, RegistroActivity::class.java)
+            startActivity(intent)
+        }
+    }
 }
